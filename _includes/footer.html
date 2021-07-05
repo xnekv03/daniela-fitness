@@ -69,8 +69,15 @@
                     {% endif %}
                 </ul>
                 <p class="copyright text-muted">Copyright &copy; <a href="https://appfactory.cz" target="_blank">{{
-                    site.author }}</a> 2019 - {{ 'now' | date: "%Y" }}</p>
+                    site.author }}</a> 2019 - <span id="spanYear"></span></p>
             </div>
         </div>
     </div>
 </footer>
+
+<script>
+    $(document).ready(function () {
+        $('#spanYear').html(new Date().getFullYear());
+    });
+
+</script>
