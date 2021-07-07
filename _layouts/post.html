@@ -19,8 +19,7 @@ layout: default
             {% endif %}
             <span class="meta">Autorka
               <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.blogauthor }}{% endif %}</a>
-              dne {{ page.date | date: '%d.  %m, %Y' }} &middot; {% include read_time.html
-              content=page.content %}
+              dne {{ page.date | date: '%d.  %m, %Y' }}
             </span>
           </div>
         </div>
