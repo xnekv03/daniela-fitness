@@ -3,8 +3,8 @@ email:              trener@daniela-fitness.cz
 description:        Osobní trenérka
 author:             Vojtěch Nekvapil
 blogauthor:         Daniela Mlchová
-baseurl:            "/daniela-fitness"
-url:                "https://xnekv03.github.io"
+baseurl:            ""
+url:                "http://daniela-fitness.cz"
 
 collections:
   sluzby:
