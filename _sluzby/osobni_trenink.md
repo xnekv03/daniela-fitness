@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Osobní trenink
+title: Osobní trénink
 description:
 background: '/img/about3.jpg'
 ---
