@@ -9,7 +9,6 @@ Osobní tréninky pod mým vedením trvají 60 minut a je nutné se na ně telef
 
 První osobní trénink začneme konzultací, kde se Vás zeptám na Váš životní styl (cvičení, stravu, případné potíže), jak vypadá Váš denní režim a na cíl, kterého chcete dosáhnout.
 
-[comment]: <> (![image]&#40;{{site.baseurl}}/assets/images/sluzby/osobni-trenink.jpg&#41;)
 
 <div class="text-center">
 <img src="{{site.baseurl}}/assets/images/sluzby/osobni-trenink.jpg" alt="drawing" width="321" height="214" class="center"/>

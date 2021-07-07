@@ -6,6 +6,10 @@ blogauthor:         Daniela Mlchová
 baseurl:            "/daniela-fitness"
 url:                "https://xnekv03.github.io"
 
+collections:
+  sluzby:
+    output: true
+
 # Social Profiles
 #twitter_username:   SBootstrap
 #github_username:    StartBootstrap
