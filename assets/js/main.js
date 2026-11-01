@@ -1,1 +1,1 @@
-document.querySelectorAll('.navbar-collapse .nav-link').forEach(a=>a.addEventListener('click',()=>{const n=document.querySelector('.navbar-collapse.show');if(n) bootstrap.Collapse.getOrCreateInstance(n).hide()}));
+document.querySelectorAll('.navbar .nav-link').forEach(a=>a.addEventListener('click',()=>{const n=document.querySelector('.navbar-collapse.show');if(n)bootstrap.Collapse.getOrCreateInstance(n).hide()}));
